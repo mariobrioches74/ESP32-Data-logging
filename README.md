@@ -22,11 +22,10 @@ Il sistema acquisisce dati di **temperatura** e **umidità**, li invia tramite p
 - Sensore DHT11
 
 ### Software & Cloud
-- Arduino IDE
+- VScode + PlatformIO extension
 - Firebase Realtime Database
 - Firebase Hosting
-- HTML / CSS / JavaScript
-- HTTPS REST API
+- HTML / CSS / JavaScript / Python
 
 ---
 
