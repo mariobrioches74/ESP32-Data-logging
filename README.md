@@ -9,8 +9,7 @@ Il sistema acquisisce dati di **temperatura** e **umidità**, li invia tramite p
 
 - Lettura della temperatura e umidità tramite sensore DHT11
 - Connessione Wi-Fi tramite ESP32
-- Invio dati in tempo reale a Firebase Realtime Database
-- Comunicazione sicura tramite HTTPS
+- Invio dati in tempo reale a Firebase Realtime Database tramite HTTPS
 - Dashboard web per la visualizzazione dei dati live
 - Hosting della pagina web tramite Firebase Hosting
 
