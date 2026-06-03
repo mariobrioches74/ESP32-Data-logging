@@ -40,7 +40,7 @@ DHT11 --> ESP32 --> HTTPS Request --> Firebase Realtime Database
 
 ---
 
-## 📷 Dashboard Web
+## Dashboard Web
 
 La pagina web mostra in tempo reale:
 
